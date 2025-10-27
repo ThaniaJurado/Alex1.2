@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebService</string>
+    <string name="title_activity_cambiar_contacto_de_emergencia">CambiarContactoDeEmergencia
+    </string>
+    <string name="title_activity_cambiar_modo_de_contacto">CambiarModoDeContacto</string>
+    <string name="title_activity_configurar_evidencia">ConfigurarEvidencia</string>
+</resources>
