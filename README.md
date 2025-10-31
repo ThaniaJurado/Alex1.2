@@ -4,12 +4,13 @@ Alex 1.2 is a personal security application that allows sending emergency alerts
 ### Legacy SDK Versions and Tools Summary
 This app was develop back in 2017 and won't probably run in current Android Studio environments, unless you install old components. 
 For whoever needs to know, these were the specifications
-
+```
 Android SDK & Build Tools
 Compile SDK Version: 23 (Android 6.0 Marshmallow)
 Target SDK Version: 23 (Android 6.0 Marshmallow)
 Minimum SDK Version: 15 (Android 4.0.3 Ice Cream Sandwich)
 Build Tools Version: 23.0.1
+```
 
 ### Why "Alex"?
 The name for this app was inspired by the unfortunate reality that walking alone at night can be dangerously unsafe, making it necessary to have a companion for protection. For those who have no choice but to travel alone during late hours, this app serves as a virtual buddy that ensures you're never truly alone.
@@ -103,5 +104,5 @@ MiPasswordE: User's email password
 ## 5. "Evi"
 Evidencia: Type of evidence (video/audio)
 
-# Permisos Requeridos
+# Required Permissions
 Internet, GPS, Camera, Microphone, Storage, Phone Calls, SMS
